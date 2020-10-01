@@ -1,5 +1,8 @@
-# _Repository-Descriptions
+# Repository-Descriptions
 Please use this repository to read the explanations of every public repository on my GitHub profile
+
+## SFIA3-Project
+The repo for the 3rd and final SFIA project. This was a collaborative project in which we deployed a front and backend service to AWS. This incorporated the use of jenkins as the CI server and scripts to automatically build a new version of the application. Terraform was used to generate the required infrastructure on AWS and kubernetes was used to deploy the application.
 
 ## SFIA-2-Strat-Roulette
 The source code for the 2nd SFIA project for QA consulting. This project is my own attempt to recreate Strat Roulette, a game played by party's within CSGO. [The repository has its own README](https://github.com/boz83/SFIA-2-Strat-Roulette) that details the technologies used to design, develop and deploy the application
